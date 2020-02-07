@@ -1,0 +1,10 @@
+C:\Users\vipat\Desktop\C#\Dia1\Tareas\hola\bin\Debug\netcoreapp3.1\hola.exe
+C:\Users\vipat\Desktop\C#\Dia1\Tareas\hola\bin\Debug\netcoreapp3.1\hola.deps.json
+C:\Users\vipat\Desktop\C#\Dia1\Tareas\hola\bin\Debug\netcoreapp3.1\hola.runtimeconfig.json
+C:\Users\vipat\Desktop\C#\Dia1\Tareas\hola\bin\Debug\netcoreapp3.1\hola.runtimeconfig.dev.json
+C:\Users\vipat\Desktop\C#\Dia1\Tareas\hola\bin\Debug\netcoreapp3.1\hola.dll
+C:\Users\vipat\Desktop\C#\Dia1\Tareas\hola\bin\Debug\netcoreapp3.1\hola.pdb
+C:\Users\vipat\Desktop\C#\Dia1\Tareas\hola\obj\Debug\netcoreapp3.1\hola.AssemblyInfoInputs.cache
+C:\Users\vipat\Desktop\C#\Dia1\Tareas\hola\obj\Debug\netcoreapp3.1\hola.AssemblyInfo.cs
+C:\Users\vipat\Desktop\C#\Dia1\Tareas\hola\obj\Debug\netcoreapp3.1\hola.dll
+C:\Users\vipat\Desktop\C#\Dia1\Tareas\hola\obj\Debug\netcoreapp3.1\hola.pdb

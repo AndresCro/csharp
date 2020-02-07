@@ -1,0 +1,11 @@
+C:\Users\vipat\Desktop\C#\Dia1\Practicas\clase1223\bin\Debug\netcoreapp3.1\clase1223.exe
+C:\Users\vipat\Desktop\C#\Dia1\Practicas\clase1223\bin\Debug\netcoreapp3.1\clase1223.deps.json
+C:\Users\vipat\Desktop\C#\Dia1\Practicas\clase1223\bin\Debug\netcoreapp3.1\clase1223.runtimeconfig.json
+C:\Users\vipat\Desktop\C#\Dia1\Practicas\clase1223\bin\Debug\netcoreapp3.1\clase1223.runtimeconfig.dev.json
+C:\Users\vipat\Desktop\C#\Dia1\Practicas\clase1223\bin\Debug\netcoreapp3.1\clase1223.dll
+C:\Users\vipat\Desktop\C#\Dia1\Practicas\clase1223\bin\Debug\netcoreapp3.1\clase1223.pdb
+C:\Users\vipat\Desktop\C#\Dia1\Practicas\clase1223\obj\Debug\netcoreapp3.1\clase1223.csprojAssemblyReference.cache
+C:\Users\vipat\Desktop\C#\Dia1\Practicas\clase1223\obj\Debug\netcoreapp3.1\clase1223.AssemblyInfoInputs.cache
+C:\Users\vipat\Desktop\C#\Dia1\Practicas\clase1223\obj\Debug\netcoreapp3.1\clase1223.AssemblyInfo.cs
+C:\Users\vipat\Desktop\C#\Dia1\Practicas\clase1223\obj\Debug\netcoreapp3.1\clase1223.dll
+C:\Users\vipat\Desktop\C#\Dia1\Practicas\clase1223\obj\Debug\netcoreapp3.1\clase1223.pdb

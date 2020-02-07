@@ -1,0 +1,11 @@
+C:\Users\vipat\Desktop\C#\Dia1\Practicas\Clase1224\bin\Debug\netcoreapp3.1\Clase1224.exe
+C:\Users\vipat\Desktop\C#\Dia1\Practicas\Clase1224\bin\Debug\netcoreapp3.1\Clase1224.deps.json
+C:\Users\vipat\Desktop\C#\Dia1\Practicas\Clase1224\bin\Debug\netcoreapp3.1\Clase1224.runtimeconfig.json
+C:\Users\vipat\Desktop\C#\Dia1\Practicas\Clase1224\bin\Debug\netcoreapp3.1\Clase1224.runtimeconfig.dev.json
+C:\Users\vipat\Desktop\C#\Dia1\Practicas\Clase1224\bin\Debug\netcoreapp3.1\Clase1224.dll
+C:\Users\vipat\Desktop\C#\Dia1\Practicas\Clase1224\bin\Debug\netcoreapp3.1\Clase1224.pdb
+C:\Users\vipat\Desktop\C#\Dia1\Practicas\Clase1224\obj\Debug\netcoreapp3.1\Clase1224.csprojAssemblyReference.cache
+C:\Users\vipat\Desktop\C#\Dia1\Practicas\Clase1224\obj\Debug\netcoreapp3.1\Clase1224.AssemblyInfoInputs.cache
+C:\Users\vipat\Desktop\C#\Dia1\Practicas\Clase1224\obj\Debug\netcoreapp3.1\Clase1224.AssemblyInfo.cs
+C:\Users\vipat\Desktop\C#\Dia1\Practicas\Clase1224\obj\Debug\netcoreapp3.1\Clase1224.dll
+C:\Users\vipat\Desktop\C#\Dia1\Practicas\Clase1224\obj\Debug\netcoreapp3.1\Clase1224.pdb

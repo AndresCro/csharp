@@ -1,0 +1,10 @@
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\Herencia\bin\Debug\netcoreapp3.1\Herencia.exe
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\Herencia\bin\Debug\netcoreapp3.1\Herencia.deps.json
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\Herencia\bin\Debug\netcoreapp3.1\Herencia.runtimeconfig.json
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\Herencia\bin\Debug\netcoreapp3.1\Herencia.runtimeconfig.dev.json
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\Herencia\bin\Debug\netcoreapp3.1\Herencia.dll
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\Herencia\bin\Debug\netcoreapp3.1\Herencia.pdb
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\Herencia\obj\Debug\netcoreapp3.1\Herencia.AssemblyInfoInputs.cache
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\Herencia\obj\Debug\netcoreapp3.1\Herencia.AssemblyInfo.cs
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\Herencia\obj\Debug\netcoreapp3.1\Herencia.dll
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\Herencia\obj\Debug\netcoreapp3.1\Herencia.pdb

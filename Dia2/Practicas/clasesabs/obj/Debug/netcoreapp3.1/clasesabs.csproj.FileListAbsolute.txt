@@ -1,0 +1,10 @@
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\clasesabs\obj\Debug\netcoreapp3.1\clasesabs.AssemblyInfoInputs.cache
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\clasesabs\obj\Debug\netcoreapp3.1\clasesabs.AssemblyInfo.cs
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\clasesabs\bin\Debug\netcoreapp3.1\clasesabs.exe
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\clasesabs\bin\Debug\netcoreapp3.1\clasesabs.deps.json
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\clasesabs\bin\Debug\netcoreapp3.1\clasesabs.runtimeconfig.json
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\clasesabs\bin\Debug\netcoreapp3.1\clasesabs.runtimeconfig.dev.json
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\clasesabs\bin\Debug\netcoreapp3.1\clasesabs.dll
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\clasesabs\bin\Debug\netcoreapp3.1\clasesabs.pdb
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\clasesabs\obj\Debug\netcoreapp3.1\clasesabs.dll
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\clasesabs\obj\Debug\netcoreapp3.1\clasesabs.pdb

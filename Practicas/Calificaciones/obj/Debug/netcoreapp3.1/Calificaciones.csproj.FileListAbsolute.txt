@@ -1,0 +1,11 @@
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\Calificaciones\bin\Debug\netcoreapp3.1\Calificaciones.exe
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\Calificaciones\bin\Debug\netcoreapp3.1\Calificaciones.deps.json
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\Calificaciones\bin\Debug\netcoreapp3.1\Calificaciones.runtimeconfig.json
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\Calificaciones\bin\Debug\netcoreapp3.1\Calificaciones.runtimeconfig.dev.json
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\Calificaciones\bin\Debug\netcoreapp3.1\Calificaciones.dll
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\Calificaciones\bin\Debug\netcoreapp3.1\Calificaciones.pdb
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\Calificaciones\obj\Debug\netcoreapp3.1\Calificaciones.csprojAssemblyReference.cache
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\Calificaciones\obj\Debug\netcoreapp3.1\Calificaciones.AssemblyInfoInputs.cache
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\Calificaciones\obj\Debug\netcoreapp3.1\Calificaciones.AssemblyInfo.cs
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\Calificaciones\obj\Debug\netcoreapp3.1\Calificaciones.dll
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\Calificaciones\obj\Debug\netcoreapp3.1\Calificaciones.pdb

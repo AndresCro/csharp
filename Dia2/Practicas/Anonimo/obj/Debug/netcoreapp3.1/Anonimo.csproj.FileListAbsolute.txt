@@ -1,0 +1,10 @@
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\Anonimo\bin\Debug\netcoreapp3.1\Anonimo.exe
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\Anonimo\bin\Debug\netcoreapp3.1\Anonimo.deps.json
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\Anonimo\bin\Debug\netcoreapp3.1\Anonimo.runtimeconfig.json
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\Anonimo\bin\Debug\netcoreapp3.1\Anonimo.runtimeconfig.dev.json
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\Anonimo\bin\Debug\netcoreapp3.1\Anonimo.dll
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\Anonimo\bin\Debug\netcoreapp3.1\Anonimo.pdb
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\Anonimo\obj\Debug\netcoreapp3.1\Anonimo.AssemblyInfoInputs.cache
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\Anonimo\obj\Debug\netcoreapp3.1\Anonimo.AssemblyInfo.cs
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\Anonimo\obj\Debug\netcoreapp3.1\Anonimo.dll
+C:\Users\vipat\Desktop\C#\Dia2\Practicas\Anonimo\obj\Debug\netcoreapp3.1\Anonimo.pdb
