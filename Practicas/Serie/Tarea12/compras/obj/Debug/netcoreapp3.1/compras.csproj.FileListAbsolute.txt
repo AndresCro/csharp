@@ -1,0 +1,11 @@
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea12\compras\bin\Debug\netcoreapp3.1\compras.exe
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea12\compras\bin\Debug\netcoreapp3.1\compras.deps.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea12\compras\bin\Debug\netcoreapp3.1\compras.runtimeconfig.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea12\compras\bin\Debug\netcoreapp3.1\compras.runtimeconfig.dev.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea12\compras\bin\Debug\netcoreapp3.1\compras.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea12\compras\bin\Debug\netcoreapp3.1\compras.pdb
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea12\compras\obj\Debug\netcoreapp3.1\compras.csprojAssemblyReference.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea12\compras\obj\Debug\netcoreapp3.1\compras.AssemblyInfoInputs.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea12\compras\obj\Debug\netcoreapp3.1\compras.AssemblyInfo.cs
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea12\compras\obj\Debug\netcoreapp3.1\compras.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea12\compras\obj\Debug\netcoreapp3.1\compras.pdb
