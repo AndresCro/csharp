@@ -1,0 +1,10 @@
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea4\fibo\bin\Debug\netcoreapp3.1\fibo.exe
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea4\fibo\bin\Debug\netcoreapp3.1\fibo.deps.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea4\fibo\bin\Debug\netcoreapp3.1\fibo.runtimeconfig.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea4\fibo\bin\Debug\netcoreapp3.1\fibo.runtimeconfig.dev.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea4\fibo\bin\Debug\netcoreapp3.1\fibo.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea4\fibo\bin\Debug\netcoreapp3.1\fibo.pdb
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea4\fibo\obj\Debug\netcoreapp3.1\fibo.AssemblyInfoInputs.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea4\fibo\obj\Debug\netcoreapp3.1\fibo.AssemblyInfo.cs
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea4\fibo\obj\Debug\netcoreapp3.1\fibo.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea4\fibo\obj\Debug\netcoreapp3.1\fibo.pdb

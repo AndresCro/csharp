@@ -1,0 +1,10 @@
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\Expec\bin\Debug\netcoreapp3.1\Expec.exe
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\Expec\bin\Debug\netcoreapp3.1\Expec.deps.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\Expec\bin\Debug\netcoreapp3.1\Expec.runtimeconfig.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\Expec\bin\Debug\netcoreapp3.1\Expec.runtimeconfig.dev.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\Expec\bin\Debug\netcoreapp3.1\Expec.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\Expec\bin\Debug\netcoreapp3.1\Expec.pdb
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\Expec\obj\Debug\netcoreapp3.1\Expec.AssemblyInfoInputs.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\Expec\obj\Debug\netcoreapp3.1\Expec.AssemblyInfo.cs
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\Expec\obj\Debug\netcoreapp3.1\Expec.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\Expec\obj\Debug\netcoreapp3.1\Expec.pdb

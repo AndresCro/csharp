@@ -1,0 +1,10 @@
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea2\clap\bin\Debug\netcoreapp3.1\clap.exe
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea2\clap\bin\Debug\netcoreapp3.1\clap.deps.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea2\clap\bin\Debug\netcoreapp3.1\clap.runtimeconfig.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea2\clap\bin\Debug\netcoreapp3.1\clap.runtimeconfig.dev.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea2\clap\bin\Debug\netcoreapp3.1\clap.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea2\clap\bin\Debug\netcoreapp3.1\clap.pdb
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea2\clap\obj\Debug\netcoreapp3.1\clap.AssemblyInfoInputs.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea2\clap\obj\Debug\netcoreapp3.1\clap.AssemblyInfo.cs
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea2\clap\obj\Debug\netcoreapp3.1\clap.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea2\clap\obj\Debug\netcoreapp3.1\clap.pdb

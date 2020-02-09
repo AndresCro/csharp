@@ -1,0 +1,10 @@
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\gene\obj\Debug\netcoreapp3.1\gene.AssemblyInfoInputs.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\gene\obj\Debug\netcoreapp3.1\gene.AssemblyInfo.cs
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\gene\bin\Debug\netcoreapp3.1\gene.exe
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\gene\bin\Debug\netcoreapp3.1\gene.deps.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\gene\bin\Debug\netcoreapp3.1\gene.runtimeconfig.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\gene\bin\Debug\netcoreapp3.1\gene.runtimeconfig.dev.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\gene\bin\Debug\netcoreapp3.1\gene.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\gene\bin\Debug\netcoreapp3.1\gene.pdb
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\gene\obj\Debug\netcoreapp3.1\gene.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\gene\obj\Debug\netcoreapp3.1\gene.pdb

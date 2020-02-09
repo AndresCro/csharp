@@ -1,0 +1,10 @@
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\listas\bin\Debug\netcoreapp3.1\listas.exe
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\listas\bin\Debug\netcoreapp3.1\listas.deps.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\listas\bin\Debug\netcoreapp3.1\listas.runtimeconfig.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\listas\bin\Debug\netcoreapp3.1\listas.runtimeconfig.dev.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\listas\bin\Debug\netcoreapp3.1\listas.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\listas\bin\Debug\netcoreapp3.1\listas.pdb
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\listas\obj\Debug\netcoreapp3.1\listas.AssemblyInfoInputs.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\listas\obj\Debug\netcoreapp3.1\listas.AssemblyInfo.cs
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\listas\obj\Debug\netcoreapp3.1\listas.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\listas\obj\Debug\netcoreapp3.1\listas.pdb

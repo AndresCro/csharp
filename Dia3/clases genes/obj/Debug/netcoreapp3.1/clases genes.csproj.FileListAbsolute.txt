@@ -1,0 +1,10 @@
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\clases genes\bin\Debug\netcoreapp3.1\clases genes.exe
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\clases genes\bin\Debug\netcoreapp3.1\clases genes.deps.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\clases genes\bin\Debug\netcoreapp3.1\clases genes.runtimeconfig.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\clases genes\bin\Debug\netcoreapp3.1\clases genes.runtimeconfig.dev.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\clases genes\bin\Debug\netcoreapp3.1\clases genes.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\clases genes\bin\Debug\netcoreapp3.1\clases genes.pdb
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\clases genes\obj\Debug\netcoreapp3.1\clases genes.AssemblyInfoInputs.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\clases genes\obj\Debug\netcoreapp3.1\clases genes.AssemblyInfo.cs
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\clases genes\obj\Debug\netcoreapp3.1\clases genes.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\clases genes\obj\Debug\netcoreapp3.1\clases genes.pdb

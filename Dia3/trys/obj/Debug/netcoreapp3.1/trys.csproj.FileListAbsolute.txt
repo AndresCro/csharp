@@ -1,0 +1,11 @@
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\trys\bin\Debug\netcoreapp3.1\trys.exe
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\trys\bin\Debug\netcoreapp3.1\trys.deps.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\trys\bin\Debug\netcoreapp3.1\trys.runtimeconfig.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\trys\bin\Debug\netcoreapp3.1\trys.runtimeconfig.dev.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\trys\bin\Debug\netcoreapp3.1\trys.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\trys\bin\Debug\netcoreapp3.1\trys.pdb
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\trys\obj\Debug\netcoreapp3.1\trys.csprojAssemblyReference.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\trys\obj\Debug\netcoreapp3.1\trys.AssemblyInfoInputs.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\trys\obj\Debug\netcoreapp3.1\trys.AssemblyInfo.cs
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\trys\obj\Debug\netcoreapp3.1\trys.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\trys\obj\Debug\netcoreapp3.1\trys.pdb

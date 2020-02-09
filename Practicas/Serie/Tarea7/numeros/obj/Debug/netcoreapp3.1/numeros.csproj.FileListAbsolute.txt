@@ -1,0 +1,11 @@
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea7\numeros\bin\Debug\netcoreapp3.1\numeros.exe
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea7\numeros\bin\Debug\netcoreapp3.1\numeros.deps.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea7\numeros\bin\Debug\netcoreapp3.1\numeros.runtimeconfig.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea7\numeros\bin\Debug\netcoreapp3.1\numeros.runtimeconfig.dev.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea7\numeros\bin\Debug\netcoreapp3.1\numeros.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea7\numeros\bin\Debug\netcoreapp3.1\numeros.pdb
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea7\numeros\obj\Debug\netcoreapp3.1\numeros.csprojAssemblyReference.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea7\numeros\obj\Debug\netcoreapp3.1\numeros.AssemblyInfoInputs.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea7\numeros\obj\Debug\netcoreapp3.1\numeros.AssemblyInfo.cs
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea7\numeros\obj\Debug\netcoreapp3.1\numeros.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea7\numeros\obj\Debug\netcoreapp3.1\numeros.pdb

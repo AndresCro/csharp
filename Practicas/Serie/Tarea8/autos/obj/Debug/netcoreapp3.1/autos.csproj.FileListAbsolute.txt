@@ -1,0 +1,11 @@
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea8\autos\bin\Debug\netcoreapp3.1\autos.exe
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea8\autos\bin\Debug\netcoreapp3.1\autos.deps.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea8\autos\bin\Debug\netcoreapp3.1\autos.runtimeconfig.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea8\autos\bin\Debug\netcoreapp3.1\autos.runtimeconfig.dev.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea8\autos\bin\Debug\netcoreapp3.1\autos.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea8\autos\bin\Debug\netcoreapp3.1\autos.pdb
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea8\autos\obj\Debug\netcoreapp3.1\autos.csprojAssemblyReference.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea8\autos\obj\Debug\netcoreapp3.1\autos.AssemblyInfoInputs.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea8\autos\obj\Debug\netcoreapp3.1\autos.AssemblyInfo.cs
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea8\autos\obj\Debug\netcoreapp3.1\autos.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea8\autos\obj\Debug\netcoreapp3.1\autos.pdb

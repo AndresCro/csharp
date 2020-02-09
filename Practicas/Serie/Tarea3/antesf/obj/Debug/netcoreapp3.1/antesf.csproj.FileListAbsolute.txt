@@ -1,0 +1,10 @@
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea3\antesf\bin\Debug\netcoreapp3.1\antesf.exe
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea3\antesf\bin\Debug\netcoreapp3.1\antesf.deps.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea3\antesf\bin\Debug\netcoreapp3.1\antesf.runtimeconfig.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea3\antesf\bin\Debug\netcoreapp3.1\antesf.runtimeconfig.dev.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea3\antesf\bin\Debug\netcoreapp3.1\antesf.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea3\antesf\bin\Debug\netcoreapp3.1\antesf.pdb
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea3\antesf\obj\Debug\netcoreapp3.1\antesf.AssemblyInfoInputs.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea3\antesf\obj\Debug\netcoreapp3.1\antesf.AssemblyInfo.cs
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea3\antesf\obj\Debug\netcoreapp3.1\antesf.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea3\antesf\obj\Debug\netcoreapp3.1\antesf.pdb

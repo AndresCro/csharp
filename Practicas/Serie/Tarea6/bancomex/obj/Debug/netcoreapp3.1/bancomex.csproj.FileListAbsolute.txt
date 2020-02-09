@@ -1,0 +1,11 @@
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea6\bancomex\bin\Debug\netcoreapp3.1\bancomex.exe
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea6\bancomex\bin\Debug\netcoreapp3.1\bancomex.deps.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea6\bancomex\bin\Debug\netcoreapp3.1\bancomex.runtimeconfig.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea6\bancomex\bin\Debug\netcoreapp3.1\bancomex.runtimeconfig.dev.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea6\bancomex\bin\Debug\netcoreapp3.1\bancomex.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea6\bancomex\bin\Debug\netcoreapp3.1\bancomex.pdb
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea6\bancomex\obj\Debug\netcoreapp3.1\bancomex.csprojAssemblyReference.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea6\bancomex\obj\Debug\netcoreapp3.1\bancomex.AssemblyInfoInputs.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea6\bancomex\obj\Debug\netcoreapp3.1\bancomex.AssemblyInfo.cs
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea6\bancomex\obj\Debug\netcoreapp3.1\bancomex.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea6\bancomex\obj\Debug\netcoreapp3.1\bancomex.pdb

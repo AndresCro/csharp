@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gene", "gene.csproj", "{4C19CBD8-6BC7-423D-8A46-D5ADEBC293AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C19CBD8-6BC7-423D-8A46-D5ADEBC293AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C19CBD8-6BC7-423D-8A46-D5ADEBC293AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C19CBD8-6BC7-423D-8A46-D5ADEBC293AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C19CBD8-6BC7-423D-8A46-D5ADEBC293AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B373C917-AE9A-4019-BEE6-7F6664575C1B}
+	EndGlobalSection
+EndGlobal

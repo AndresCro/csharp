@@ -1,0 +1,10 @@
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\Concade\bin\Debug\netcoreapp3.1\Concade.exe
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\Concade\bin\Debug\netcoreapp3.1\Concade.deps.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\Concade\bin\Debug\netcoreapp3.1\Concade.runtimeconfig.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\Concade\bin\Debug\netcoreapp3.1\Concade.runtimeconfig.dev.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\Concade\bin\Debug\netcoreapp3.1\Concade.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\Concade\bin\Debug\netcoreapp3.1\Concade.pdb
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\Concade\obj\Debug\netcoreapp3.1\Concade.AssemblyInfoInputs.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\Concade\obj\Debug\netcoreapp3.1\Concade.AssemblyInfo.cs
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\Concade\obj\Debug\netcoreapp3.1\Concade.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia3\Concade\obj\Debug\netcoreapp3.1\Concade.pdb
