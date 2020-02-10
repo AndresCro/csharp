@@ -1,0 +1,11 @@
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea13\agen\bin\Debug\netcoreapp3.1\agen.exe
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea13\agen\bin\Debug\netcoreapp3.1\agen.deps.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea13\agen\bin\Debug\netcoreapp3.1\agen.runtimeconfig.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea13\agen\bin\Debug\netcoreapp3.1\agen.runtimeconfig.dev.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea13\agen\bin\Debug\netcoreapp3.1\agen.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea13\agen\bin\Debug\netcoreapp3.1\agen.pdb
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea13\agen\obj\Debug\netcoreapp3.1\agen.csprojAssemblyReference.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea13\agen\obj\Debug\netcoreapp3.1\agen.AssemblyInfoInputs.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea13\agen\obj\Debug\netcoreapp3.1\agen.AssemblyInfo.cs
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea13\agen\obj\Debug\netcoreapp3.1\agen.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea13\agen\obj\Debug\netcoreapp3.1\agen.pdb
