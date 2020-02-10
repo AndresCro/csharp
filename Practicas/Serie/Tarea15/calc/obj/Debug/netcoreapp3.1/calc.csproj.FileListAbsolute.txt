@@ -1,0 +1,11 @@
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea15\calc\bin\Debug\netcoreapp3.1\calc.exe
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea15\calc\bin\Debug\netcoreapp3.1\calc.deps.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea15\calc\bin\Debug\netcoreapp3.1\calc.runtimeconfig.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea15\calc\bin\Debug\netcoreapp3.1\calc.runtimeconfig.dev.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea15\calc\bin\Debug\netcoreapp3.1\calc.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea15\calc\bin\Debug\netcoreapp3.1\calc.pdb
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea15\calc\obj\Debug\netcoreapp3.1\calc.csprojAssemblyReference.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea15\calc\obj\Debug\netcoreapp3.1\calc.AssemblyInfoInputs.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea15\calc\obj\Debug\netcoreapp3.1\calc.AssemblyInfo.cs
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea15\calc\obj\Debug\netcoreapp3.1\calc.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea15\calc\obj\Debug\netcoreapp3.1\calc.pdb
