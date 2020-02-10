@@ -1,0 +1,11 @@
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea17\todo\bin\Debug\netcoreapp3.1\todo.exe
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea17\todo\bin\Debug\netcoreapp3.1\todo.deps.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea17\todo\bin\Debug\netcoreapp3.1\todo.runtimeconfig.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea17\todo\bin\Debug\netcoreapp3.1\todo.runtimeconfig.dev.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea17\todo\bin\Debug\netcoreapp3.1\todo.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea17\todo\bin\Debug\netcoreapp3.1\todo.pdb
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea17\todo\obj\Debug\netcoreapp3.1\todo.csprojAssemblyReference.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea17\todo\obj\Debug\netcoreapp3.1\todo.AssemblyInfoInputs.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea17\todo\obj\Debug\netcoreapp3.1\todo.AssemblyInfo.cs
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea17\todo\obj\Debug\netcoreapp3.1\todo.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea17\todo\obj\Debug\netcoreapp3.1\todo.pdb
