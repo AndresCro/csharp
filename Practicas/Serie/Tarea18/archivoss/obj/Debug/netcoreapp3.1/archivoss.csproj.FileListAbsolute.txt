@@ -1,0 +1,11 @@
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea18\archivoss\bin\Debug\netcoreapp3.1\archivoss.exe
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea18\archivoss\bin\Debug\netcoreapp3.1\archivoss.deps.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea18\archivoss\bin\Debug\netcoreapp3.1\archivoss.runtimeconfig.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea18\archivoss\bin\Debug\netcoreapp3.1\archivoss.runtimeconfig.dev.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea18\archivoss\bin\Debug\netcoreapp3.1\archivoss.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea18\archivoss\bin\Debug\netcoreapp3.1\archivoss.pdb
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea18\archivoss\obj\Debug\netcoreapp3.1\archivoss.csprojAssemblyReference.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea18\archivoss\obj\Debug\netcoreapp3.1\archivoss.AssemblyInfoInputs.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea18\archivoss\obj\Debug\netcoreapp3.1\archivoss.AssemblyInfo.cs
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea18\archivoss\obj\Debug\netcoreapp3.1\archivoss.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea18\archivoss\obj\Debug\netcoreapp3.1\archivoss.pdb
