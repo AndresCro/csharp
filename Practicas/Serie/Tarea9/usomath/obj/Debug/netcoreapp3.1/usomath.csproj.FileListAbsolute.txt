@@ -1,0 +1,11 @@
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea9\usomath\bin\Debug\netcoreapp3.1\usomath.exe
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea9\usomath\bin\Debug\netcoreapp3.1\usomath.deps.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea9\usomath\bin\Debug\netcoreapp3.1\usomath.runtimeconfig.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea9\usomath\bin\Debug\netcoreapp3.1\usomath.runtimeconfig.dev.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea9\usomath\bin\Debug\netcoreapp3.1\usomath.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea9\usomath\bin\Debug\netcoreapp3.1\usomath.pdb
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea9\usomath\obj\Debug\netcoreapp3.1\usomath.csprojAssemblyReference.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea9\usomath\obj\Debug\netcoreapp3.1\usomath.AssemblyInfoInputs.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea9\usomath\obj\Debug\netcoreapp3.1\usomath.AssemblyInfo.cs
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea9\usomath\obj\Debug\netcoreapp3.1\usomath.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea9\usomath\obj\Debug\netcoreapp3.1\usomath.pdb
