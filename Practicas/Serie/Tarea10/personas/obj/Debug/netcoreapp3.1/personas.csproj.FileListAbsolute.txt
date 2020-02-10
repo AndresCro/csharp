@@ -1,0 +1,11 @@
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea10\personas\bin\Debug\netcoreapp3.1\personas.exe
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea10\personas\bin\Debug\netcoreapp3.1\personas.deps.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea10\personas\bin\Debug\netcoreapp3.1\personas.runtimeconfig.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea10\personas\bin\Debug\netcoreapp3.1\personas.runtimeconfig.dev.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea10\personas\bin\Debug\netcoreapp3.1\personas.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea10\personas\bin\Debug\netcoreapp3.1\personas.pdb
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea10\personas\obj\Debug\netcoreapp3.1\personas.csprojAssemblyReference.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea10\personas\obj\Debug\netcoreapp3.1\personas.AssemblyInfoInputs.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea10\personas\obj\Debug\netcoreapp3.1\personas.AssemblyInfo.cs
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea10\personas\obj\Debug\netcoreapp3.1\personas.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea10\personas\obj\Debug\netcoreapp3.1\personas.pdb
