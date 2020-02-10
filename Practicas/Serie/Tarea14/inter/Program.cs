@@ -9,7 +9,7 @@ namespace inter
             Console.WriteLine("Uso de interfaces");
             Console.WriteLine("Cálculo de áreas con diferentes modelos");
 
-            //Instancia de las clases con la interfaz, todos dependen de la interfaz
+            //Instancia de las clases
 
             Triangulo tr = new Triangulo(6.5, 8.9);
             Rectangulo rc = new Rectangulo(10, 5);
