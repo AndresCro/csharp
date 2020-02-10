@@ -41,10 +41,13 @@ namespace usomath
         {
             Console.WriteLine("Figuras Tarea - 9");
 
+            //Creación del cpirculo
             Circulo c = new Circulo(2.5);
 
+            //Creación del triangulo
             Triangulo t = new Triangulo(1, 2, 80.1, 60.3, 34.4);
 
+            //Uso de los métodos del circulo y triangulo con Math
             Console.WriteLine("Area del círculo: "+ c.AreaCirculo());
             Console.WriteLine("Seno del ángulo de la hipotenusa y cateto opuesto: {0} = {1} " ,t.AnguloHO, t.SenoHO());
         }

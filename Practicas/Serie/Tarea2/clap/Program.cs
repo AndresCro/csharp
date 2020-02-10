@@ -8,11 +8,41 @@ namespace clap
         {
             Console.WriteLine("Ingrese dos números");
             Console.WriteLine("Número 1:");
-            int num1 = Convert.ToInt32(Console.ReadLine());
+            int num1;
+            int num2;
+            //Estructura de control de excepciones para el manejo de números
+            do {
+                try
+                {
+                    num1 = Convert.ToInt32(Console.ReadLine());
+                    break;
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("Ingresa un número");
+                    Console.ReadKey();
+                }
+            } while (true);
+
             Console.WriteLine("Número 2:");
-            int num2 = Convert.ToInt32(Console.ReadLine());
+            //Estructura de control de excepciones para el manejo de números
+            do
+            {
+                try
+                {
+                    num2 = Convert.ToInt32(Console.ReadLine());
+                    break;
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("Ingresa un número");
+                    Console.ReadKey();
+                }
+            } while (true);
+
             Console.WriteLine();
 
+            //Si es múltiplo de alguno de los dos imprime "clap" mediante el residuo
             for (int i = 1; i < 101; i++)
             {
                 if (i % num1 == 0 || i % num2 == 0)

@@ -8,3 +8,4 @@ C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea2\clap\obj
 C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea2\clap\obj\Debug\netcoreapp3.1\clap.AssemblyInfo.cs
 C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea2\clap\obj\Debug\netcoreapp3.1\clap.dll
 C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea2\clap\obj\Debug\netcoreapp3.1\clap.pdb
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea2\clap\obj\Debug\netcoreapp3.1\clap.csprojAssemblyReference.cache

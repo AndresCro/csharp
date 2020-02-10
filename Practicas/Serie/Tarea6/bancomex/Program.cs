@@ -7,12 +7,16 @@ namespace bancomex
         static void Main(string[] args)
         {
             Console.WriteLine("Bancomex");
-            int opcion;
 
-            double dinero;
-
+            //Creación de dos cuentas bancarias
             CuentaBancaria cb1 = new CuentaBancaria("Carlos", 50000.00);
             CuentaBancaria cb2 = new CuentaBancaria("Andrés", 1000000.00);
+
+            /* Muestra los datos indicados:
+             * Nombre
+             * Saldo y nombre
+             * Saldo y nombre con deposito 
+             * Saldo y nombre con retiro*/
 
             Console.WriteLine("Cuenta Carlos");
             Console.WriteLine("Mostrar Información");
@@ -21,6 +25,12 @@ namespace bancomex
             cb1.Deposito(30000.00);
             Console.WriteLine("Retiro de 40000");
             cb1.Retiro(40000.00);
+
+            /* Muestra los datos indicados:
+             * Nombre
+             * Saldo y nombre
+             * Saldo y nombre con deposito 
+             * Saldo y nombre con retiro mayor al saldo*/
 
             Console.WriteLine("Cuenta Andrés");
             Console.WriteLine("Mostrar Información");

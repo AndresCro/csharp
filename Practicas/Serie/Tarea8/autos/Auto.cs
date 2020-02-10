@@ -6,11 +6,13 @@ namespace autos
 {
     class Auto
     {
+        //Variables para hacer uso de los métodos
         private int llantas;
         private string color;
         private int asientos;
         private double velocidad;
 
+        //Override del constructor 3 veces
         public Auto()
         {
 
@@ -29,6 +31,7 @@ namespace autos
             this.color = color;
         }
 
+        //Getters and setters
         public int Llantas
         {
             get{ return llantas; }
@@ -53,16 +56,19 @@ namespace autos
             set { velocidad = value; }
         }
 
+        //Método 1 -> Mostrar las características del auto
         public void MostrarInformacion()
         {
             Console.WriteLine("El auto tiene {0} llantas, {1} asientos y es de color {2}", llantas, asientos, color);
         }
 
+        //Método 2 -> Mostrar la capicidad del auto
         public void Capacidad()
         {
             Console.WriteLine("El auto puede soportar hasta {0} personas", asientos + 1);
         }
 
+        //Método 3 -> Mostrar la distancia que recorre en 10 min
         public void Calculo()
         {
             Console.WriteLine("El auto recorre hasta {0:0.00}Km en 10 min",velocidad * 0.1666);

@@ -73,12 +73,15 @@ namespace usomath
             return Math.Tan(anguloAO);
         }
 
-        //Pues no debe faltar el área
+        //Termina las funciones Math
+
+        //Y pues no debe faltar el área
         public double Area()
         {
             return (lado * altura) / 2;
         }
 
+        //Getters y setters
         public double AnguloHA
         {
             get { return anguloHA;}
