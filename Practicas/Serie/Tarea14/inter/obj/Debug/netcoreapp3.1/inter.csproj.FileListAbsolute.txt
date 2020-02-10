@@ -1,0 +1,11 @@
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea14\inter\bin\Debug\netcoreapp3.1\inter.exe
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea14\inter\bin\Debug\netcoreapp3.1\inter.deps.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea14\inter\bin\Debug\netcoreapp3.1\inter.runtimeconfig.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea14\inter\bin\Debug\netcoreapp3.1\inter.runtimeconfig.dev.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea14\inter\bin\Debug\netcoreapp3.1\inter.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea14\inter\bin\Debug\netcoreapp3.1\inter.pdb
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea14\inter\obj\Debug\netcoreapp3.1\inter.csprojAssemblyReference.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea14\inter\obj\Debug\netcoreapp3.1\inter.AssemblyInfoInputs.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea14\inter\obj\Debug\netcoreapp3.1\inter.AssemblyInfo.cs
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea14\inter\obj\Debug\netcoreapp3.1\inter.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Serie\Tarea14\inter\obj\Debug\netcoreapp3.1\inter.pdb
