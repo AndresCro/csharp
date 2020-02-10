@@ -11,9 +11,9 @@ namespace inter
 
             //Instancia de las clases con la interfaz, todos dependen de la interfaz
 
-            IFigura tr = new Triangulo(6.5, 8.9);
-            IFigura rc = new Rectangulo(10, 5);
-            IFigura cr = new Circulo(8.9);
+            Triangulo tr = new Triangulo(6.5, 8.9);
+            Rectangulo rc = new Rectangulo(10, 5);
+            Circulo cr = new Circulo(8.9);
 
             //Demostración del uso de la interfaz
             Console.WriteLine("Triangulo");
