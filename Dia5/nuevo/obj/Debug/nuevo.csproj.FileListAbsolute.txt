@@ -1,0 +1,9 @@
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\nuevo\bin\Debug\nuevo.exe.config
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\nuevo\bin\Debug\nuevo.exe
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\nuevo\bin\Debug\nuevo.pdb
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\nuevo\obj\Debug\nuevo.Form1.resources
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\nuevo\obj\Debug\nuevo.Properties.Resources.resources
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\nuevo\obj\Debug\nuevo.csproj.GenerateResource.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\nuevo\obj\Debug\nuevo.exe
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\nuevo\obj\Debug\nuevo.pdb
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\nuevo\obj\Debug\nuevo.Form2.resources

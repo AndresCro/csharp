@@ -1,0 +1,9 @@
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\lgin\bin\Debug\lgin.exe.config
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\lgin\bin\Debug\lgin.exe
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\lgin\bin\Debug\lgin.pdb
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\lgin\obj\Debug\lgin.csprojAssemblyReference.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\lgin\obj\Debug\lgin.Form1.resources
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\lgin\obj\Debug\lgin.Properties.Resources.resources
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\lgin\obj\Debug\lgin.csproj.GenerateResource.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\lgin\obj\Debug\lgin.exe
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\lgin\obj\Debug\lgin.pdb

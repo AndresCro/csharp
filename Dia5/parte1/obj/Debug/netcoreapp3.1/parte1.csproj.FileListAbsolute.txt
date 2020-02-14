@@ -1,0 +1,11 @@
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\parte1\bin\Debug\netcoreapp3.1\parte1.exe
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\parte1\bin\Debug\netcoreapp3.1\parte1.deps.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\parte1\bin\Debug\netcoreapp3.1\parte1.runtimeconfig.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\parte1\bin\Debug\netcoreapp3.1\parte1.runtimeconfig.dev.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\parte1\bin\Debug\netcoreapp3.1\parte1.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\parte1\bin\Debug\netcoreapp3.1\parte1.pdb
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\parte1\obj\Debug\netcoreapp3.1\parte1.csprojAssemblyReference.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\parte1\obj\Debug\netcoreapp3.1\parte1.AssemblyInfoInputs.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\parte1\obj\Debug\netcoreapp3.1\parte1.AssemblyInfo.cs
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\parte1\obj\Debug\netcoreapp3.1\parte1.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\parte1\obj\Debug\netcoreapp3.1\parte1.pdb

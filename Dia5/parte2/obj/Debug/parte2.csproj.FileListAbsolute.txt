@@ -1,0 +1,9 @@
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\parte2\bin\Debug\parte2.exe.config
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\parte2\bin\Debug\parte2.exe
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\parte2\bin\Debug\parte2.pdb
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\parte2\obj\Debug\parte2.csprojAssemblyReference.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\parte2\obj\Debug\parte2.Properties.Resources.resources
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\parte2\obj\Debug\parte2.csproj.GenerateResource.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\parte2\obj\Debug\parte2.exe
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\parte2\obj\Debug\parte2.pdb
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Dia5\parte2\obj\Debug\parte2.Form1.resources

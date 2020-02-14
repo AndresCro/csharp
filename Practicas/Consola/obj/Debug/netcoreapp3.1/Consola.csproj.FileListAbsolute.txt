@@ -1,0 +1,11 @@
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Consola\bin\Debug\netcoreapp3.1\Consola.exe
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Consola\bin\Debug\netcoreapp3.1\Consola.deps.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.dev.json
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Consola\bin\Debug\netcoreapp3.1\Consola.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Consola\bin\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Consola\obj\Debug\netcoreapp3.1\Consola.csprojAssemblyReference.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfoInputs.cache
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfo.cs
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Consola\obj\Debug\netcoreapp3.1\Consola.dll
+C:\Users\vipat\OneDrive\Documentos\GitHub\csharp\Practicas\Consola\obj\Debug\netcoreapp3.1\Consola.pdb
